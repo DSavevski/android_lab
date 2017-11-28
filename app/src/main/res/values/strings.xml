@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab_Rest</string>
+    <string name="search">Search</string>
+    <string name="error_api_call">Error while fetching data.</string>
+    <string name="error_empty_query">You must enter a movie name.</string>
+    <string name="share">Share</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="runtime">Runtime</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="plot">Plot</string>
+    <string name="actors">Actors</string>
+    <string name="movie_details">Movie details</string>
+    <plurals name="qty">
+        <item quantity="one">One item</item>
+        <item quantity="other">More items</item>
+    </plurals>
+</resources>
